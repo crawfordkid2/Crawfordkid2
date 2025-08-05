@@ -11,6 +11,8 @@ Intemediate coding in Java, C, C++, C#, Python, and SQL
 
 Some network programming 
 
+Ai training and Vector Storage
+
 Cyber security testing and strengthening
 
 Encryption and Decrpytion
@@ -29,7 +31,7 @@ Network Programming and Web applications
 Expanding my tool crate to be a multi faceted handyman in the Comp Sci industry
 
 ## Contact me at 
-thecalvincrawford@gmail.com
+crawfordcoding@gmail.com
 <!--
 **crawfordkid2/Crawfordkid2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
