@@ -7,7 +7,7 @@
 Bachlors of Computer Science with a Minor in Cyber Security
 
 ## Skills
-Intemediate coding in Java, C, C++, C#, Python, and SQL
+Intemediate coding in Java, C, C++, C#, Python, and SQL, DevOps/Azure
 
 Some network programming 
 
