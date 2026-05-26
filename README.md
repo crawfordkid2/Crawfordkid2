@@ -1,48 +1,59 @@
 # Calvin Crawford
 
-> Challenges make stronger people
-> To stop learning would be to stop living
+> “Challenges create stronger people.”  
+> “To stop learning would be to stop living.”
 
-## Major
-Bachlors of Computer Science with a Minor in Cyber Security
+## About Me
+Computer Science student at Eastern Washington University pursuing a Bachelor's degree in Computer Science with a Minor in Cybersecurity. I enjoy building practical systems involving AI tooling, cloud technologies, DevOps workflows, technical operations, and software development.
 
-## Skills
-Intemediate coding in Java, C, C++, C#, Python, and SQL, DevOps/Azure
+My background combines technical development, operational leadership, customer communication, and live event coordination — giving me both technical and interpersonal experience in high-pressure environments.
 
-Some network programming 
+---
 
-Ai training and Vector Storage
+## Technical Skills
+- Java, Python, C, C++, C#, SQL
+- HTML/CSS, .NET, GitHub, Terminal Workflows
+- Azure & DevOps workflows
+- AI tooling and vector database systems
+- Network programming fundamentals
+- Cybersecurity testing and system hardening
+- Encryption and decryption concepts
+- Technical troubleshooting and IT support
 
-Cyber security testing and strengthening
+---
 
-Encryption and Decrpytion
+## Additional Experience
+- Audio engineering, music production, and sound design
+- Live event coordination and stage operations
+- Project management and workflow organization
+- Sales training and customer communication experience
+- Team leadership in high-intensity environments
 
-Sales training from a billion dollar company
+---
 
-Sound and Music design
+## Current Focus
+- Finishing my Computer Science degree
+- Expanding experience in cloud systems and backend development
+- Searching for internship and entry-level opportunities related to software development, DevOps, technical operations, or IT support
 
-## I am currently working on
-Finishing my degree and searching for an intership related to my background in comp sci and sales
+---
 
-## I am currently learning
-Network Programming and Web applications
+## Currently Learning
+- Network programming
+- Web application development
+- Cloud infrastructure and deployment workflows
+- AI workflow integration and automation systems
 
-## I am looking for help with
-Expanding my tool crate to be a multi faceted handyman in the Comp Sci industry
+---
 
-## Contact me at 
-crawfordcoding@gmail.com
-<!--
-**crawfordkid2/Crawfordkid2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+- AI systems and automation
+- DevOps and cloud infrastructure
+- Technical product management
+- Audio engineering and live event technology
+- Building practical real-world systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+📫 crawfordcoding@gmail.com
